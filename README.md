@@ -43,6 +43,28 @@ MovieLens 100K dataset:
 - 1682 movies
 - 100,000 ratings
 
+## Project Structure
+
+```
+graph-movie-recommender
+│
+├── graph_recommender.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data
+│   ├── u.data
+│   ├── u.item
+│   └── u.info
+│
+└── screenshots
+    ├── OUTPUT_1(1).png
+    └── OUTPUT_1(2).png
+
+```
+
+---	
 ## How to Run
 
 Install dependency:
