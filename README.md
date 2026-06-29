@@ -46,7 +46,7 @@ MovieLens 100K dataset:
 ## Project Structure
 
 ```
-graph-movie-recommender
+Graph-Movie-Recommender
 │
 ├── graph_recommender.py
 ├── README.md
